@@ -1,4 +1,4 @@
-# todo-angular
+# easy-angular
 
 > This is a project template to help you in the process of starting, testing and completing a simple, but real-world angularJS application. This assumes you have node.js installed, if not please visit nodejs.org to install it for your platform.
 
